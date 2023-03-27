@@ -1,0 +1,52 @@
+[
+    {
+       "id":1,
+       "question":"What is www an acronym for?",
+       "answer":"World Wide Web"
+    },
+    {
+       "id":2,
+       "question":"What is the best channel on youtube?",
+       "answer":"Tom Scott"
+    },
+    {
+       "id":3,
+       "question":"Is this discord server the best server?",
+       "answer":"Yes"
+    },
+    {
+       "id":4,
+       "question":"Is porn acceptable to post in this server",
+       "answer":"No"
+    },
+    {
+       "id":5,
+       "question":"What does DDoS stand for.",
+       "answer":"Distributed Denial of Service"
+    },
+    {
+       "id":6,
+       "question":"RAT is an acronym, for what?",
+       "answer":"Remote administration tool"
+    },
+    {
+       "id":7,
+       "question":"What is a 3 letter acronym for something that can bypass windows defender",
+       "answer":"FUD"
+    },
+    {
+       "id":8,
+       "question":"If you type python into a terminal, how would you exit",
+       "answer":"exit()"
+    },
+    {
+       "id":9,
+       "question":"Can you name the username of the owner of Hackforums.net",
+       "answer":"Omniscient"
+    },
+    {
+       "id":10,
+       "question":"Is Robot the best member in the server",
+       "answer":"Yes"
+    }
+ ]
