@@ -1,0 +1,4 @@
+discord.py
+python-Levenshtein
+json
+Levenshtein
