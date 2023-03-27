@@ -7,7 +7,9 @@ This is a bot that asks users trivia questions and keeps track of their scores. 
 1. Clone this repository: `git clone https://github.com/AIMadeScripts/discordbotquiz.git`
 2. cd `discordbotquiz`
 3. Install the required dependencies: `pip install -r requirements.txt`
-4. Run the bot: `python questions.py`
+4. Make sure to edit the very last line bot.run('TOKEN_GOES_HERE')  
+5. Run the bot: `python questions.py`
+
 
 ## Usage
 
